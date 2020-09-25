@@ -1,5 +1,5 @@
 # yoyopizzabot
-This is a pizza bot which helps taking the orders from customers .And helps in assisting them
+This is a pizza bot which helps in taking the orders from customers .And helps in assisting them
 This pizza bot first takes an Order from the customers
 it includes :
         pizza flavor,
